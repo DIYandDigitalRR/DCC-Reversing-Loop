@@ -14,7 +14,7 @@ void setup() {
   pinMode(brake, OUTPUT);
   pinMode(power, OUTPUT);
   pinMode(sensor1, INPUT); //establishes pin as intput
-  pinMode(sensor1, INPUT);
+  pinMode(sensor2, INPUT);
 }
 
 enum LOOPSTATES {
